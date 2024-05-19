@@ -1,0 +1,100 @@
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  margin: 0 auto;
+  color: #fff;
+}
+
+body,
+html {
+  background-color: #1e1e1f;
+  height: 100%;
+  padding: 0;
+}
+
+/* page wrapper */
+
+.main_cont {
+  background-color: #212227;
+  border: 1px solid red;
+  width: 90%;
+  height: 100%;
+  padding: 0.75rem;
+  border-radius: 25px;
+}
+
+/* nav section */
+
+.nav_icon_bar {
+  border: 1px solid yellow;
+  margin: 0 auto;
+  height: 10%;
+  display: flex;
+  border-radius: 25px;
+
+  align-items: center;
+}
+
+/* banner section styling */
+
+.banner_bar {
+  border: 1px solid yellow;
+  margin: 0 auto;
+  height: 20%;
+  display: flex;
+  border-radius: 25px;
+  /* justify-content: center; */
+
+  align-items: center;
+}
+
+/* main content section */
+
+.hero_section {
+  border: 1px solid yellow;
+  height: 70%;
+  padding: 2rem;
+  gap: 2rem;
+  border-radius: 25px;
+  display: flex;
+}
+
+/* left main box */
+.hero_sec_left {
+  border: 1px solid blue;
+  border-radius: 25px;
+  width: 50%;
+}
+
+.left_two_card_box {
+  padding: 1rem;
+}
+
+.balance_box {
+  height: 10%;
+  border: 1px solid purple;
+  padding: 5px;
+}
+
+.ticker_panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid red;
+}
+
+.ticker_panel_boxes {
+  border: 1px solid white;
+  padding: 12px;
+}
+
+/* right main box */
+.hero_sec_right {
+  border: 1px solid blue;
+  border-radius: 25px;
+  width: 50%;
+}
+
+.right_two_card_box {
+  padding: 1rem;
+}

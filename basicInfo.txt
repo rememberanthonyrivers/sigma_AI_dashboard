@@ -1,0 +1,9 @@
+html to jsx website - https://transform.tools/html-to-jsx
+
+-----------------------------------------------------------
+
+main background color - #1e1e1f
+
+secondary background color - #141516
+
+card background color - #212227 
